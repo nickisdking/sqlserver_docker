@@ -45,7 +45,7 @@ Follow these steps to build and run the SQL Server Docker container:
    You can connect to the SQL Server instance using any SQL client with the following credentials:
    - Server: `localhost`
    - Username: `sa`
-   - Password: `YourStrong@Passw0rd` (or the password specified in the `docker-compose.yml`)
+   - Password: `YourStrong@Passw0rd` (or the password specified in the for SA_PASSWORD Enviroment Variable)
 
 ## Initialization Script
 The `configure-db.sh` is run by the entrypoint script
