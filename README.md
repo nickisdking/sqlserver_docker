@@ -19,6 +19,7 @@ sqlserver-docker-project
 
 - Docker installed on your machine.
 - Docker Compose installed.
+- SA_PASSWORD Environment password is set
 
 ## Getting Started
 
